@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header, .content, .sidebar, .footer{
+    padding: 1%;
+    margin: 1%;
+}
+.header{
+    border: 1px solid red;
+}
+.content{
+    border: 1px solid green;
+}
+.sidebar{
+    border: 1px solid  blue;
+}
+.footer{
+    border: 1px solid purple;
+}
